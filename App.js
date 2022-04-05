@@ -2,6 +2,8 @@ import React from 'react';
 import {StateProvider} from './src/context/StateProvider';
 import {ThemedButton} from './src/components/ThemedButton';
 
+// Changed
+
 const App = () => {
   const initialState = {
     theme: {primary: 'green'},
